@@ -1,6 +1,6 @@
 # WhatsApp Web;
 
-In this project, WhatsApp web application has been created with react
+In this project, WhatsApp web application has been created with react;
 
 ![image](https://user-images.githubusercontent.com/74311184/147787129-ec4d57d9-afad-49a1-92c8-1cbc59daae06.png)
 ![image](https://user-images.githubusercontent.com/74311184/147787152-6e38dc35-db81-45b4-b94c-b9451d0a3821.png)
